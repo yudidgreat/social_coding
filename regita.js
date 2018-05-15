@@ -3,3 +3,4 @@ const tempatLahir = "purwakarta"
 
 console.log(nama)
 console.log(tempatLahir)
+asdfadsfkajdfas
